@@ -1481,6 +1481,20 @@
                 "longitude": -0.3685668
             },
             "feed_url": "https://gbfs.partners.fifteen.eu/gbfs/pau/gbfs.json"
+        },
+        {
+            "tag": "nemovelo",
+            "meta": {
+                "name": "NemoVélo",
+                "city": "Nîmes",
+                "country": "FR",
+                "company": [
+                    "Ecovelo"
+                ],
+                "latitude": 43.83819,
+                "longitude": 4.35997
+            },
+            "feed_url": "https://api.gbfs.v3.0.ecovelo.mobi/nemovelo/station_information.json"
         }
     ],
     "system": "gbfs",
